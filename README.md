@@ -1,6 +1,6 @@
 # 3-Core MESI Cache-Coherence System
 
-A synthesizable Verilog-2001 implementation of the MESI cache-coherence protocol for three processor cores. The project supports both direct-mapped and 4-way set-associative caches and includes a self-checking directed testbench.
+A synthesizable Verilog implementation of the MESI cache-coherence protocol for three processor cores. The project supports both direct-mapped and 4-way set-associative caches and includes a self-checking directed testbench.
 
 ## Features
 
