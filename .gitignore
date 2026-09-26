@@ -1,0 +1,8 @@
+work/
+*.vcd
+*.fsdb
+*.daidir/
+*.log
+simv*
+ucli.key
+verdiLog/
